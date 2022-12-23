@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x83ead0B7b6601F2708A215d4A43c9D5253587AAE",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x83ead0b7b6601f2708a215d4a43c9d5253587aae",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "OMI GAME",
+  "SYMBOL": "OMI",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/omi-game",
+  "SHOW_BACKGROUND": true
+}
