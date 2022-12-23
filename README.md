@@ -1,7 +1,13 @@
 # Project
 solidity boot camp project
 
+this project creates NFT that are multichain game characters capeable of transported to diffrent metaverses
+with add features like Chainlink,Zksnarks,SVG,Transpose. this is an iterative process which ill be refining 
+
+
 to run minting dapp type npm install to install all the node packages then npm run start to start the server
+
+will try and host on github page or another service 
 
 ![dapp](https://user-images.githubusercontent.com/7167730/209411926-7caff290-63ed-4842-b51d-ff9ae1f4906f.png)
 ![etherscan](https://user-images.githubusercontent.com/7167730/209411938-b9bd0df9-633d-446c-a3a2-31431103ecf7.png)
