@@ -3,6 +3,8 @@ solidity boot camp project
 
 this project creates NFT that are multichain game characters capeable of transported to diffrent metaverses
 with add features like Chainlink,Zksnarks,SVG,Transpose. this is an iterative process which ill be refining 
+the meta data and images are stored on pinata ipfs<img width="1390" alt="Screenshot 2022-12-23 at 23 34 31" src="https://user-images.githubusercontent.com/7167730/209413558-29f1c9bb-6043-421a-8a46-f338b78ca650.png">
+
 
 
 to run minting dapp type npm install to install all the node packages then npm run start to start the server
